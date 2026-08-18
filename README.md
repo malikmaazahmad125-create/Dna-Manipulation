@@ -30,6 +30,8 @@ This project performs:
 - 📉 Data Visualization using Seaborn
 
 ---
+How to Run:
+python "Dna Manipulation.py"
 
 ## 🧬 DNA Sequence
 
